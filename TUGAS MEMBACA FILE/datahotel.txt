@@ -1,0 +1,6 @@
+nama hotel : savanahotel
+alamat : jl. antanaya nomer 14 kota kediri
+jumlah cabang : 50 cabang
+pemilik : perusahaan pt sidomoro no 1 indonesia
+
+hi ini konten baru!a
